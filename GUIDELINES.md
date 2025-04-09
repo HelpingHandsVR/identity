@@ -9,6 +9,8 @@ If you are uncertain if your usage of the logo is appropriate, please contact He
 
 Presentation guidelines are provided below.
 
+---
+
 <div align="center">
 <img width="250" src="./.github/assets/guidelines/layers.png" />
 </div>
