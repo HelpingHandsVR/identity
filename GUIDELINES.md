@@ -15,33 +15,28 @@ Presentation guidelines are provided below.
 <img width="250" src="./.github/assets/guidelines/layers.png" />
 </div>
 
-The Helping Hands logo consists of three key components:
+The Helping Hands logo consists of two key components:
 
-- A blue (*#407EC9*; Pantone 660C) circle representing the ocean of the Earth;
-- A green (*#97D700*; Pantone 375C) orthographic projection of the land regions of Earth, displayed at an approximate latitude of 40 degrees and an approximate longitude of -80 degrees (roughly centered on Washington, Pennsylvania);
-- A pair of white (*#FFFFFF*, Pantone 000C) hands, with the left hands' wrist pointing towards the bottom left of the frame, and the right hands' wrist pointing towards the top right of the frame. The hands are rotationally symmetrical and have the tip of the index finger almost touching the tip of the thumb to represent the [INTERPRET](https://www.lifeprint.com/asl101/pages-signs/i/interpreter.htm) sign in American Sign Language.
+- A circle transitioning vertically from Helping Hands Blue (*#3291D3*, Pantone 279C) at the top to Helping Hands Green (*#4DCE7D*, Pantone 2256C) at the bottom, abstractly representing the Earth.
+- A pair of white (*#FFFFFF*, Pantone 000C) hands, with the right hands' wrist pointing towards the bottom right of the circle, and the left hands' wrist pointing towards the top left of the circle. The index finger of each hand overlaps the thumb of the opposing hand. The inner wrist path curves to join the curvature at the edge of the circle.
 
-It is OK to substitute these colors with slight variations when necessary for technical requirements (such as due to compression, palette limitations, or different color spaces). However, avoid significant variation if possible. It should be obvious to the viewer that it is the Earth being represented in the logo.
-
-If the silhouettes of the countries represented are too complicated, it is OK to simplify them to a certain degree to meet technical or artistic requirements. However, attempt to make the representation as accurate as reasonably possible. It should be obvious to the viewer that it is the Earth being represented in the logo.
+It is OK to substitute these colors with slight variations when necessary for technical requirements (such as due to compression, palette limitations, or different color spaces). However, avoid significant variation if possible. It should be obvious to the viewer what is being represented in the logo.
 
 ---
 
 <div align="center">
-<img height="128" width="512" src="./.github/assets/guidelines/orientation.png" />
+<img height="128" width="384" src="./.github/assets/guidelines/orientation.png" />
 </div>
 
-The logo should represent both the Earth and the hands in the correct orientation and transform. The fingers on the left hand should face upwards. The Earth should show its projection correctly (i.e. the countries should be represented as they are).
-
-The correct orientation can be identified by the silhouette of South America on the southern (bottom) half and the regions of Europe (including the United Kingdom) present on the north-east (top right) parts of the image.
+The logo should represent both the hands and the background in the correct orientation and transform. The fingers on the right hand should face upwards. The gradient should start with Helping Hands Blue at the top, transitioning down to Helping Hands Green.
 
 ---
 
 <div align="center">
-<img width="250" src="./.github/assets/guidelines/on_white.png" />
+<img height="128" width="384" src="./.github/assets/guidelines/on_white.png" />
 </div>
 
-The hands of the logo extend beyond the edge of the underlying circle. Because the hands are displayed in white, it is acceptable to use an outline if the logo must be displayed on white.
+The hands of the logo extend to the edge of the underlying circle. Because the hands are displayed in white, it is acceptable to use an outline on either the entire logo or including the interior components if the logo must be displayed on white. However, we recommend using the 'positive space' version of the logo on the right instead for these cases.
 
 ---
 
