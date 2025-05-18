@@ -22,6 +22,12 @@ The Helping Hands logo consists of two key components:
 
 It is OK to substitute these colors with slight variations when necessary for technical requirements (such as due to compression, palette limitations, or different color spaces). However, avoid significant variation if possible. It should be obvious to the viewer what is being represented in the logo.
 
+The color swatches are displayed below.
+
+<div align="center">
+<img width="384" src="./.github/assets/guidelines/colors.png" />
+</div>
+
 ---
 
 <div align="center">
