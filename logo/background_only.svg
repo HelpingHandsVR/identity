@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .helping_hands_gradient {
+        fill: url(#helping_hands_gradient);
+      }
+
+      .helping_hands_gradient, .helping_hands_transparent {
+        stroke-width: 0px;
+      }
+
+      .helping_hands_transparent {
+        fill: none;
+      }
+
+      .helping_hands_circle_clip {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle id="Circle_Mask" data-name="Circle Mask" class="helping_hands_transparent" cx="512" cy="512" r="512"/>
+    </clipPath>
+    <linearGradient id="helping_hands_gradient" data-name="helping_hands_gradient" x1="512" y1="10.23" x2="512" y2="1021.04" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3291d3"/>
+      <stop offset="1" stop-color="#4dce7d"/>
+    </linearGradient>
+  </defs>
+  <g id="Clipping_Group" data-name="Clipping Group">
+    <g class="helping_hands_circle_clip">
+      <rect id="Background" class="helping_hands_gradient" width="1024" height="1024"/>
+    </g>
+  </g>
+</svg>
